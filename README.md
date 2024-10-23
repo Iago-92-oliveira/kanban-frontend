@@ -6,7 +6,7 @@ Este é um projeto de um quadro de tarefas **Kanban** desenvolvido com **HTML**,
 
 Você pode acessar e visualizar o quadro Kanban através do link abaixo:
 
-
+(https://iago-92-oliveira.github.io/kanban-frontend/)
 
 ## 🚀 Tecnologias Utilizadas
 
